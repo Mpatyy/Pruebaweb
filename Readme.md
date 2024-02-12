@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we are Jorge, Jennifer, Sergio y Patricia.</h1>
 <h3 align="center">👌</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Aprenderemos a usar los diferentes lenguajes de programación en el grado superior de desarrollo de aplicaciones web</h3>
 <p align="left">
 </p>
 
