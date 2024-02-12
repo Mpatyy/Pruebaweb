@@ -250,7 +250,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: var(--bs-link-hover-color);
+  color: var(--bs-blue);
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -2846,8 +2846,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #ffc800;
-  --bs-btn-border-color: #ffc800;
+  --bs-btn-bg: #a0cced;
+  --bs-btn-border-color: #a0cced;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #d9aa00;
   --bs-btn-hover-border-color: #cca000;
@@ -5311,7 +5311,7 @@ textarea.form-control-lg {
   display: flex;
   flex-direction: column;
   width: 100%;
-  color: var(--bs-modal-color);
+  color: var(--bs-blue);
   pointer-events: auto;
   background-color: var(--bs-modal-bg);
   background-clip: padding-box;
